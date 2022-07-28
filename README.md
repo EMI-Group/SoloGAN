@@ -1,7 +1,7 @@
 # Multimodal image-to-image translation via a single generative adversarial network
 
 Our model architecture is defined as depicted bellow, please refer to the paper for more details:
-<img src='images/Whole_Network_Structure.jpg'  width='900px' />
+<img src='images/SoloGAN-overview.jpg'  width='900px' />
 
 ## Usage Guidance
 
